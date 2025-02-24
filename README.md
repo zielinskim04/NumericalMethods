@@ -12,6 +12,8 @@ w_n(x) = a_0 + a_1 (T_1(x) - U_1(x)) + \cdots + a_n (T_n(x) - U_n(x))
 \]
 ![Equation](https://latex.codecogs.com/png.latex?w_n(x)%20=%20a_0%20+%20a_1%20(T_1(x)%20-%20U_1(x))%20+%20\cdots%20+%20a_n%20(T_n(x)%20-%20U_n(x)))
 
+<p>Equation:</p>
+<p> \( w_n(x) = a_0 + a_1 (T_1(x) - U_1(x)) + \dots + a_n (T_n(x) - U_n(x)) \) </p>
 , where T_n are Chbyshev polynomials of the first kind and U_n are Chebyshev polynomials of the second kind.
 
 

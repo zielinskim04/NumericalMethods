@@ -7,7 +7,8 @@ Problem Description:
 
 The project aims to develop a program that finds the roots of a polynomial described as follows:
 
-[Equation](https://latex.codecogs.com/png.latex?\color{red}w_n(x)%20=%20a_0%20+%20a_1%20(T_1(x)%20-%20U_1(x))%20+%20\cdots%20+%20a_n%20(T_n(x)%20-%20U_n(x)))
+![Equation](https://latex.codecogs.com/png.latex?\color{red}w_n(x)%20=%20a_0%20+%20a_1%20(T_1(x)%20-%20U_1(x))%20+%20\cdots%20+%20a_n%20(T_n(x)%20-%20U_n(x)))
+
 
 
 , where T_n are Chbyshev polynomials of the first kind and U_n are Chebyshev polynomials of the second kind.

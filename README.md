@@ -1,7 +1,7 @@
 # Numerical Methods
 This course was a part of the third term. We had to individually prepare two projects, one related to searching for zero of a function and second related to matrices. Reports (in Polish) and codes you can find in proper folders.
 
-## 1. Finding the roots of a polynomial using Newton's method
+## 1. Finding the Toots of a Polynomial using Newton's Method
 
 Problem Description:
 
@@ -13,7 +13,7 @@ The project aims to develop a program that finds the roots of a polynomial descr
 
 , where T_n are Chbyshev polynomials of the first kind and U_n are Chebyshev polynomials of the second kind.
 
-## 2. Solving a System of Linear Equations Using the SOR Method
+## 2. Solving a System of Linear Equations using the SOR Method
 
 Problem Description:
 

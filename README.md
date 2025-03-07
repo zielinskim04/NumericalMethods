@@ -1,7 +1,7 @@
 # Numerical Methods
 This course was a part of the third term. We had to individually prepare two projects, one related to searching for zero of a function and second related to matrices. Reports (in Polish) and codes you can find in proper folders.
 
-## 1. Finding the Toots of a Polynomial using Newton's Method
+## 1. Finding the Roots of a Polynomial using Newton's Method
 
 Problem Description:
 
